@@ -1,0 +1,5 @@
+# My Courswork for CSCI P-14110: Introduction to Programming, Computational Science, and Data Visualization
+### Course Description:
+This course is an introduction to programming methods with an emphasis on data visualization and computational modeling. The increasing prevalence of massive data sets and falling computational barriers have rendered computational modeling and data visualization necessary in most of the contemporary sciences. With this in mind, this course prepares students to select and properly undertake commonly encountered modeling and visualizing tasks. The course first teaches relevant concepts from programming using hands-on activities. Students then apply their new programming skills to guided problems of orbital motions of multiple planetary systems (like that around our sun and other stars) and end the course with both two- and three-dimensional interactive movies of their datasets using a variety of visualization libraries and methods.
+
+Course Website: https://jnaiman.github.io/csci-p-14110_su2020/syllabus.html
